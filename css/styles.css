@@ -1,0 +1,59 @@
+.right-nav {
+  float: right;
+}
+
+.left-nav {
+  float: left;
+}
+
+stylish-input-group .input-group-addon{
+    background: white !important;
+}
+.stylish-input-group .form-control{
+	border-right:0;
+	box-shadow:0 0 0;
+	border-color:#ccc;
+}
+.stylish-input-group button{
+    border:0;
+    background:transparent;
+}
+
+#imaginary_container {
+  width: 40%;
+  float:right;
+}
+
+.row {
+    margin-right: -50px;
+    margin-left: -50px;
+}
+
+img.logo {
+  width: 75%;
+}
+
+.title h2{
+  font-weight: lighter;
+}
+
+.panel-body {
+  background-color: #f5fffa;
+}
+
+.panel-body1 {
+  background-color: #f5faff;
+}
+
+h2.panel-title {
+  color:black;
+}
+
+.panel-body2 {
+  background-color: #FAF5FF;
+}
+
+img.robinson {
+  width: 50%;
+  float: left;
+}
